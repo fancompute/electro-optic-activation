@@ -31,11 +31,6 @@ def build_network(g=np.pi*0.65, g_taper=1.0, phi_b=0.0, L=2, N=4, Nout=1, alpha=
     return neu.Sequential(layers)
 
 
-def T(X):
-    return np.array(([-1j*np.sin(np.pi*X/2), 1j*np.cos(np.pi*X/2)],
-                     [ 1j*np.cos(np.pi*X/2), 1j*np.sin(np.pi*X/2)]))
-
-
 def generate_data_XOR(N, y_scale=1.0, normalize=False):
     assert N <= 8
     Y = np.zeros( (1, 2**N) )
