@@ -1,4 +1,4 @@
-# Electro-optic Activation Function Tasks
+# Electro-optic Activation Function
 
 ## Overview
 
