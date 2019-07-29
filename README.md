@@ -4,7 +4,7 @@
 
 This repository contains the notebooks for training optical neural networks (ONNs) with the electro-optic activation function proposed in:
 
-* I. A. D. Williamson, T. W. Hughes, M. Minkov, B. Bartlett, S. Pai, and S. Fan, "[Reprogrammable Electro-Optic Nonlinear Activation Functions for Optical Neural Networks](https://arxiv.org/abs/1903.04579)," arXiv:1903.04579 [eess], Mar. 2019.
+* I. A. D. Williamson, T. W. Hughes, M. Minkov, B. Bartlett, S. Pai, and S. Fan, "[Reprogrammable Electro-Optic Nonlinear Activation Functions for Optical Neural Networks](https://doi.org/10.1109/JSTQE.2019.2930455)," IEEE Journal of Selected Topics in Quantum Electronics, Jul. 2019.
 
 The code for generating the main results of the above paper are provided in the Jupyter notebooks in this repository. See the section below for more details on each of the notebooks. **Please consider citing the above paper if you use any of the code in this repository.**
 
